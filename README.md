@@ -6,6 +6,6 @@ GTEx_parsing.html: Code to read in GTEx gene expression data and pull expression
 
 X_ortholog_workflow.html: Code to generate lists of reciprocal 1:1 X chromosome orthologs for all subsets of a group of species.
 
-scRNA-seq_anaysis_python.html: Code to visualize 10x Genomics scRNA-seq data.
+scRNAseq_anaysis_python.html: Code to visualize 10x Genomics scRNA-seq data.
 
 
